@@ -7,6 +7,11 @@
 
 import UIKit
 
+enum Sex {
+    case male
+    case female
+}
+
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
