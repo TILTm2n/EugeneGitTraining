@@ -12,8 +12,8 @@ enum Sex {
     case female
 }
 
-class Men {
-    var hasMustache: Bool?
+class Women {
+    var hasDress: Bool?
 }
 
 class ViewController: UIViewController {
