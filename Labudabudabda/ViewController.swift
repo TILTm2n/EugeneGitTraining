@@ -12,6 +12,10 @@ enum Sex {
     case female
 }
 
+class Men {
+    var hasMustache: Bool?
+}
+
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
